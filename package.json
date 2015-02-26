@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/soldotno/react-component-empty/issues"
   },
-  "homepage": "https://github.com/soldotno/react-component-empty"
+  "homepage": "https://github.com/soldotno/react-component-empty",
+  "dependencies": {
+    "react": "^0.12.2"
+  }
 }
