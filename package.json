@@ -1,0 +1,25 @@
+{
+  "name": "react-component-empty",
+  "version": "0.1.0",
+  "description": "An empty React component that doesn't output anything and doesn't update.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soldotno/react-component-empty"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "null",
+    "empty"
+  ],
+  "author": "Just Thomas Misund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soldotno/react-component-empty/issues"
+  },
+  "homepage": "https://github.com/soldotno/react-component-empty"
+}
