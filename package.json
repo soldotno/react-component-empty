@@ -1,6 +1,6 @@
 {
   "name": "react-component-empty",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An empty React component that doesn't output anything and doesn't update.",
   "main": "index.js",
   "scripts": {
