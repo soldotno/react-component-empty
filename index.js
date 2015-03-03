@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = function(React) {
-    return React.createClass({
+    var toReturn = React.createClass({
         displayName: 'EmptyComponent',
 
         getInitialState: function () {
@@ -16,4 +16,6 @@ module.exports = function(React) {
             return null;
         }
     });
+
+    return React.createFactory(toReturn);
 }
