@@ -1,6 +1,7 @@
 'use strict';
+var React = require('react')
 
-module.exports = function(React) {
+module.exports = function() {
     var toReturn = React.createClass({
         displayName: 'EmptyComponent',
 
