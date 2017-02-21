@@ -1,4 +1,6 @@
 # react-component-empty
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/react-component-empty.svg)](https://greenkeeper.io/)
 An empty React component that doesn't output anything and doesn't update.
 
 About
