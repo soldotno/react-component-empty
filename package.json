@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/soldotno/react-component-empty",
   "dependencies": {
-    "react": "^0.12.2"
+    "react": "^15.4.2"
   }
 }
