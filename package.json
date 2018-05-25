@@ -25,16 +25,7 @@
   "peerDependencies": {
     "react": ">=0.14"
   },
-  "devDependencies": {
-    "babel-jest": "^22.4.4",
-    "babel-preset-react": "^6.24.1",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "jest": "^22.4.4",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "react-test-renderer": "^16.4.0"
-  },
+  "devDependencies": {},
   "files": [
     "index.js"
   ]
